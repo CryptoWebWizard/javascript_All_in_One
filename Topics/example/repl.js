@@ -2,3 +2,6 @@
 //  Main use of it is debugging and writing code using command line
 // 
 
+
+
+// why there is no code because of it's only command line
