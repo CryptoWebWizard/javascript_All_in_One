@@ -31,3 +31,10 @@ function say() {
 }
 say(); // Hi
 console.log(message); // Hi
+
+
+
+
+
+
+
